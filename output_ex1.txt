@@ -1,0 +1,10 @@
+Tempo de execução local (processo 3): 3.44106 segundos.
+Tempo de execução local (processo 2): 4.33224 segundos.
+Tempo de execução local (processo 1): 5.54892 segundos.
+Tempo de execução local (processo 0): 7.82252 segundos.
+Contagem Final:
+A: 763517118
+T: 764606176
+C: 511685713
+G: 511971484
+Tempo total de execução: 7.82261 segundos.
